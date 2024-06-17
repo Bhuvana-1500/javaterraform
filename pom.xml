@@ -39,6 +39,11 @@
             <version>2.3.3</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.azure</groupId>
+            <artifactId>azure-resourcemanager</artifactId>
+            <version>2.5.0</version>
+        </dependency>
   </dependencies>
 
   <build>
